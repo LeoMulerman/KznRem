@@ -124,6 +124,9 @@ body {
         line-height: 1.6;
         font-size: 12px;
     }
+    .carousel-item img{
+        height: 300px;
+    }
     .card{
       margin-bottom: 15px;
     }
